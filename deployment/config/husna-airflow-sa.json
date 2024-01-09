@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "resonant-feat-400619",
+  "private_key_id": "dec8970d5ad0b4916f2562a776e70293db9aca52",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQD8GE273ZN1H3LG\n6KBvq52/ywAnMwbJ4J6tZenJKnSCnSGSvBPCM04NZLGPD0p4NjAXlWyWfoTCuwNZ\nmY0xaOU0CifvjFvNDM5Cfe2zBoPaZdO0fYPzE3kQStU4EYRbVbR0JdbRxu5lT/7s\nddBHhqN3sT1J1azP4+hmngnhSblQpjUjTMDzg4yln58JBlUKG5pzOHkVA2szOmaa\nSHqHJKxDpS0gHKqxmZmkovsgkc8oLA4hIZONOgQH9T94CZWhpU3neOkXFWcM9ot9\n/OuqJ86oExXi+PBnEuw5n6S0QuFD2jQXiDu/Yn5hKTO7rast8WBQs4U2K4GVecNT\nyvJ7D15DAgMBAAECggEACA5jLMM1ejEm7I1fMde6NBItiNdtLeDe7hZk1++NOl2b\nE496QTyOKV3gpycJLXEnvfV3MrzyQlFjU0CI8CYOPvNUiXSaVcPnXcxpcBFsmVk9\nPk/NenV0wFjFeFUQ19xgqvgVqgMls4e/jumvM3DlBQ2Qdr5aZBOVkIxcLzP0+W1l\nkOJ91hVGvtHMXsUHff2E5+4mGrDF3LAw7k3/szOQ74Vv90GYHpDOUAwDnyYGzjpB\nBJjju2OBZZqyKi7wh8x3TAe7CzvtxnhXSwjTQKAy2gsXRcChVKZpEAeiwd8a9LAf\nnFEUakoud214ms3A4H4/e9AKYbEbZqYFSqLyFHkS7QKBgQD/8wqneytnZjU2V0pG\nYBzDSwsZAT65qkYKYbTAgb1E7mERJC9vzuqQAxTBGhQ/azeMTj1ymw0v7BZYGtna\nJ8t0ieGwGoC+qK2tpKnU6lQ+n83GCVaSj9VJVOXMmoAw6R4ZDcvWvjCF2YgVvUqW\n4MfWMLZ/8aONrUx0jPZUBXxkpQKBgQD8JREfVADFJh7RRbWi9267kSscGlfZ4nii\nTj7KaZgRbfPDZyI4ihlAlqxwMf3CuAOB9cu4JoO+8fQ1aHOijE3xLlk2i9pZgL8e\ndLmP6pj3j/Ox+zo/LM6HgzNm6pdnKIQYPwfQ/BHqHxyc7mqVKmVwwiKajwd4h94C\nsCGn+IT6xwKBgQDHUCFc2Oqs44fOoF0jvpbHcfnbZ//Ln5BZZ0rVmnKkainGqnIS\nVISOzwdrdH6OAFVKemcZhyrWxbeEtqwtWU3zm6fXdlwJnNta3F6wgiZGejVI4V68\nVSuXpngpQ6tN60tX4Ul6GbM5mHOD0ltycOrNnjOQIMDnhCuEm3z7YyZCTQKBgQCd\nMB50gVHZleIwZFzPs6D8nYtagbGyy1SZGl5aoWmDtB/6+RiEVtNXSJdHemLQORc2\ntZzCuH/5Ua0EfpFYDE+qw1IqhxUgJvr+aZYk+gNSkhNCKXQuXiiConAxAJ5SWRfA\nZcrhpcMlSS/1RUx8oWmL2froj7IAmfL1igfxRyTfkQKBgQCUUd4HP3MA/7Fa27q4\nGEYPUHzAOnu3W7wMGyFqaHE6FAEQ47OJzrf6wbka34nPpmeuZOYnXdCUAm4dA6kq\nIu9tUoQL7MhV+KZBuBpYUMEGaA30IRLESEqb9fbJ4QfppTNHEkuYW/kTkR0D/yTg\npgqGELJkU0fObDe1KTSxNVPaxA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "husna-airflow@resonant-feat-400619.iam.gserviceaccount.com",
+  "client_id": "100329882616963878383",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/husna-airflow%40resonant-feat-400619.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

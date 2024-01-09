@@ -1,2 +1,7 @@
 /.venv/
 /deployment/logs/
+/.idea/.gitignore
+/.idea/dataSources.xml
+/.idea/husna-airflow.iml
+/.idea/misc.xml
+/.idea/modules.xml
